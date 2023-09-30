@@ -12,6 +12,13 @@ main {
   margin: 3vh;
 }
 
+@media screen and (max-width: 400px) {
+  ul {
+    text-align: center;
+    flex-direction: column;
+  }
+}
+
 footer {
   font-family: 'Inclusive Sans', sans-serif;
   background-color: #d9792b;
