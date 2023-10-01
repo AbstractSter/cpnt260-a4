@@ -19,15 +19,8 @@ main {
   }
 }
 
-@media screen and (max-width: 900px) {
-  ul {
-    width: 100%;
-    height: auto;
-    position: relative;
-  }
-}
-
 footer {
+  display: flex;
   font-family: 'Inclusive Sans', sans-serif;
   background-color: #d9792b;
   padding: 1rem;
@@ -35,4 +28,5 @@ footer {
 
 footer p {
   text-align: center;
+  padding: 5vh;
 }

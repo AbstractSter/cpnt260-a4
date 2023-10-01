@@ -6,16 +6,12 @@ header {
   width: 100%;
 
   background-color: #1f4865;
+  color: red;
 }
 
 h1 {
   font-size: 40px;
 }
-
-
-/* label, input {
-  display: none;
-} */
 
 /* Primary Navigation */
 nav ul {
@@ -32,10 +28,20 @@ nav a {
   color: #f7b684;
   text-decoration: none;
 
-  border: 1px solid grey;
+  border: 1px solid #f7b684;
 }
 
 nav a:hover {
   background-color: #d9792b;
   color: black;
+}
+
+img {
+display: flex;
+justify-content: flex-start;
+float: left;
+}
+
+div {
+  align-items: center;
 }
