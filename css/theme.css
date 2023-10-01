@@ -10,10 +10,11 @@ header {
 }
 
 h1 {
+  /* Main Page Heading */
   font-size: 40px;
 }
 
-/* Primary Navigation */
+  /* Primary Navigation */
 nav ul {
   display: flex;
   justify-content: flex-end;
@@ -34,14 +35,4 @@ nav a {
 nav a:hover {
   background-color: #d9792b;
   color: black;
-}
-
-img {
-display: flex;
-justify-content: flex-start;
-float: left;
-}
-
-div {
-  align-items: center;
 }
