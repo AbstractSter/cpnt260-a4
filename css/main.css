@@ -1,4 +1,5 @@
 body {
+  /* Full Page */
   font-family: 'Inclusive Sans', sans-serif;
   
   display: flex;
@@ -7,12 +8,13 @@ body {
 }
 
 main {
+  /* Page Content */
   flex: auto;
-
   margin: 3vh;
 }
 
 @media screen and (max-width: 500px) {
+  /* Page Break */
   ul {
     text-align: center;
     flex-direction: column;
@@ -20,6 +22,7 @@ main {
 }
 
 footer {
+  /* Sticky Footer */
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -30,6 +33,7 @@ footer {
 }
 
 footer p {
+  /* Copyright */
   text-align: center;
   padding: 5px;
 }
