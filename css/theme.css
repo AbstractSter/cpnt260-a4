@@ -21,15 +21,14 @@ nav ul {
 }
 
 nav a {
-  display: block;
+  display: flex;
   padding: 1rem;
   border-radius: .5rem;
+  border: 1px solid #f7b684;
 
   text-align: center;
   color: #f7b684;
   text-decoration: none;
-
-  border: 1px solid #f7b684;
 }
 
 nav a:hover {
