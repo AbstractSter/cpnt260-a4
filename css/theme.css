@@ -7,15 +7,9 @@ header {
   width: 100%;
 
   background-color: #1f4865;
-  color: red;
+  color: #d9792b;
 }
-
-h1 {
-  /* Main Page Heading */
-  font-size: 40px;
-}
-
-  
+ 
 nav ul {
   /* Primary Navigation */
   display: flex;
