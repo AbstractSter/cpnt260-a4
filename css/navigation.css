@@ -1,3 +1,10 @@
+.nav-title {
+  /* Nav Bar Title */
+  font-family: 'Merriweather', serif;
+  font-size: 60px;
+  padding: 1rem;
+}
+
 nav {
   /* Nav Flex Container */
   display: flex;
@@ -19,12 +26,6 @@ nav .nav-bar-menu-buttons {
   padding-right: 1rem;
 }
 
-.nav-title {
-  /* Nav Bar Title */
-  font-family: 'Merriweather', serif;
-  font-size: 60px;
-  padding: 1rem;
-}
 
 .nav-bar-menu-buttons li {
   /* Main Nav Bar */
