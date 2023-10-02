@@ -1,4 +1,5 @@
 header {
+  /* Nav Bar Header */
   display: flex-end;
   justify-content: space-between;
   align-items: baseline;
@@ -14,8 +15,9 @@ h1 {
   font-size: 40px;
 }
 
-  /* Primary Navigation */
+  
 nav ul {
+  /* Primary Navigation */
   display: flex;
   justify-content: flex-end;
 }
@@ -32,11 +34,14 @@ nav a {
   text-decoration: none;
 }
 
-nav a:hover {
-  background-color: #d9792b;
-  color: black;
+.active {
+  /* Active Page Status */
+  background-color: #656564;
+  border-radius: .5rem;
 }
 
-.active {
-  background-color: #5b6165;
+nav a:hover {
+  /* Nav Bar Hover Effect */
+  background-color: #d9792b;
+  color: black;
 }
