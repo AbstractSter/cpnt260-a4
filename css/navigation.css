@@ -1,0 +1,48 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  
+  width: 100%;
+  
+  background-color: #1f4865;
+  color: #d9792b;
+}
+
+nav .nav-bar-menu-buttons {
+  display: flex;
+  justify-content: flex-end;
+
+  list-style: none;
+  padding-right: 1rem;
+}
+
+.nav-title {
+
+}
+
+.nav-bar-menu-buttons li {
+  /* Main Nav Bar */
+  padding: 1rem;
+  border-radius: .5rem;
+  border: 1px solid #f7b684;
+
+}
+
+.nav-bar-menu-buttons a {
+  text-align: center;
+  color: #f7b684;
+  text-decoration: none;
+}
+
+.active {
+  /* Active Page Status */
+  background-color: #656564;
+  border-radius: .5rem;
+}
+
+nav a:hover {
+  /* Nav Bar Hover Effect */
+  background-color: #d9792b;
+  color: black;
+}
