@@ -16,7 +16,7 @@ main {
 @media screen and (max-width: 500px) {
   /* Page Break */
   ul {
-    text-align: center;
+    text-align: left;
     flex-direction: column;
   }
 }
