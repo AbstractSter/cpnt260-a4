@@ -13,7 +13,11 @@ main {
   margin: 3vh;
 }
 
-@media screen and (max-width: 500px) {
+p {
+  min-width: 40ch;
+}
+
+@media screen and (max-width: 600px) {
   /* Page Break */
   ul {
     text-align: left;
