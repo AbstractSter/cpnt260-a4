@@ -11,4 +11,4 @@ Full-Page Layout
 
 ### Helpful Resource
 - [Helpful Resource](https://1map.com/map-embed) - 1Map gave me the code to embed the map in the footer of the page
-- Search Term
+- Search Term 

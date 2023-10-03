@@ -52,4 +52,5 @@ nav a:hover {
   /* Nav Bar Hover Effect */
   background-color: #d9792b;
   color: black;
+  transition: 0.5s;
 }
