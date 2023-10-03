@@ -41,7 +41,7 @@ nav .nav-bar-menu-buttons {
   text-decoration: none;
 }
 
-.nav-bar-menu-buttons :hover {
+nav li:hover {
   /* Nav Bar Hover Effect */
   background-color: #d9792b;
   color: black;
