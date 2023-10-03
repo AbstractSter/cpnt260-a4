@@ -44,12 +44,11 @@ nav .nav-bar-menu-buttons {
 nav li:hover {
   /* Nav Bar Hover Effect */
   background-color: #d76100;
-  color: black;
   transition: 0.5s;
 }
 
 .active {
   /* Active Page Status */
-  background-color: #656564;
+  background-color: #848383;
   border-radius: .5rem;
 }
