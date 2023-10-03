@@ -8,12 +8,13 @@ body {
 }
 
 main {
-  /* Page Content */
+  /* Page Main Content */
   flex: auto;
   margin: 3vh;
 }
 
 p {
+  /* Paragraph Content */
   min-width: 40ch;
   line-height: 1.5;
 }
