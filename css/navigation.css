@@ -43,9 +43,9 @@ nav .nav-bar-menu-buttons {
 
 nav li:hover {
   /* Nav Bar Hover Effect */
-  background-color: #d9792b;
+  background-color: #d76100;
   color: black;
-  transition: 0.25s;
+  transition: 0.5s;
 }
 
 .active {
