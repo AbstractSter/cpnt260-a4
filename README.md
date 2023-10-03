@@ -3,7 +3,7 @@ Full-Page Layout
 
 ### Author: Sterling Smith
 
-### GitHub Page
+### [GitHub Page](https://abstractster.github.io/cpnt260-a4/)
 
 ### Attributions
 - [W3Schools](https://www.w3schools.com/)
