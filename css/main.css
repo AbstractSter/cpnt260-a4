@@ -15,6 +15,7 @@ main {
 
 p {
   min-width: 40ch;
+  line-height: 1.5;
 }
 
 @media screen and (max-width: 600px) {
