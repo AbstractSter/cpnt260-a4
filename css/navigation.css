@@ -32,7 +32,6 @@ nav .nav-bar-menu-buttons {
   padding: 1rem;
   border-radius: .5rem;
   border: 1px solid #f7b684;
-  /* justify-content: center; */
 }
 
 .nav-bar-menu-buttons a {
@@ -42,15 +41,15 @@ nav .nav-bar-menu-buttons {
   text-decoration: none;
 }
 
-.active {
-  /* Active Page Status */
-  background-color: #656564;
-  border-radius: .5rem;
-}
-
 nav a:hover {
   /* Nav Bar Hover Effect */
   background-color: #d9792b;
   color: black;
   transition: 0.5s;
+}
+
+.active {
+  /* Active Page Status */
+  background-color: #656564;
+  border-radius: .5rem;
 }
